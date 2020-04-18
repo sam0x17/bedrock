@@ -7,3 +7,7 @@ authors:
 crystal: 0.34.0
 
 license: MIT
+
+dependencies:
+  pg:
+    github: will/crystal-pg

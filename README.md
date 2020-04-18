@@ -1,39 +1,7 @@
-# bedrock
+# Bedrock
 
-TODO: Write a description here
+Bedrock is a full-featured ORM for the Crystal programming language that
+tries to take the best parts from ActiveRecord, adapt them, and evolve
+them into something newer and (hopefully) more powerful for Crystal.
 
-## Installation
-
-1. Add the dependency to your `shard.yml`:
-
-   ```yaml
-   dependencies:
-     bedrock:
-       github: your-github-user/bedrock
-   ```
-
-2. Run `shards install`
-
-## Usage
-
-```crystal
-require "bedrock"
-```
-
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
-
-## Contributing
-
-1. Fork it (<https://github.com/your-github-user/bedrock/fork>)
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
-
-## Contributors
-
-- [Sam Johnson](https://github.com/your-github-user) - creator and maintainer
+Bedrock is under development, and is not yet usable.
